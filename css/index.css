@@ -234,7 +234,7 @@ footer {
 @media (max-width: 500px) {
   .home .space-images .blast {
     width: 100%;
-    margin: 20px 30px;
+    padding: 20px 30px;
   }
 }
 @media (max-width: 500px) {
@@ -299,6 +299,10 @@ footer {
   border-radius: 4px;
   background-color: #22283A;
   color: #ffffff;
+}
+.home .walk .walk-text button:hover {
+  background-color: #ffffff;
+  color: #22283A;
 }
 @media (max-width: 500px) {
   .home .walk .walk-text button {
